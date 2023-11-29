@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swaraj5252
+- 👋 Hi, I’m Swaraj
 - 👀 I’m interested in AI, MERN stack and flutter
 - 🌱 I’m currently learning flutter and MERN stack
 - 💞️ I’m looking to collaborate on ...
